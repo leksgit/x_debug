@@ -1,6 +1,8 @@
 # x_debug
 A small helper for debugging php
 
+It is based on developments https://github.com/exfriend
+
 ## x_debug()
 
 функция включает вывод всех ошибок и устанавливает необходимые параметры для вывода, необходимо вызывать сразу после подключения файла отладки.
